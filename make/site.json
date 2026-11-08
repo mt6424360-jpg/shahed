@@ -1,0 +1,10 @@
+{
+  "description": "An elegant interactive wedding invitation for guests, featuring a sealed envelope, event details, venue and photo guidelines, and a countdown to the celebration.",
+  "robots": {
+    "index": false
+  },
+  "accessibility": {
+    "addBypassLinks": false,
+    "ignoreReducedMotion": false
+  }
+}
